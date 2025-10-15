@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParcialPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9294c93276cb79fda30214a560628944bd2067c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55a76e0579c643a7098754d4d95344e9f0e8db96")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParcialPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParcialPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

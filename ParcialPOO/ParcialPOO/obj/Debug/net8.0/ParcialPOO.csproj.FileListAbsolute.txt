@@ -1,0 +1,5 @@
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\ParcialPOO\ParcialPOO\obj\Debug\net8.0\ParcialPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\ParcialPOO\ParcialPOO\obj\Debug\net8.0\ParcialPOO.AssemblyInfoInputs.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\ParcialPOO\ParcialPOO\obj\Debug\net8.0\ParcialPOO.AssemblyInfo.cs
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\ParcialPOO\ParcialPOO\obj\Debug\net8.0\ParcialPOO.csproj.CoreCompileInputs.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\ParcialPOO\ParcialPOO\obj\Debug\net8.0\ParcialPOO.sourcelink.json
