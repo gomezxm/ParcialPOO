@@ -34,8 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -46,8 +66,7 @@
               "RelativeToolTip": "ParcialPOO\\Models\\IMostrable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T20:53:48.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T20:53:48.971Z"
             },
             {
               "$type": "Document",
@@ -59,8 +78,7 @@
               "RelativeToolTip": "ParcialPOO\\Models\\EstudianteBecado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T20:13:09.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T20:13:09.567Z"
             },
             {
               "$type": "Document",
@@ -72,16 +90,7 @@
               "RelativeToolTip": "ParcialPOO\\Models\\Calificacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:10:10.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-10-15T16:10:10.758Z"
             },
             {
               "$type": "Document",
@@ -93,8 +102,7 @@
               "RelativeToolTip": "ParcialPOO\\Models\\Materia.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:09:03.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T16:09:03.089Z"
             },
             {
               "$type": "Document",
@@ -104,7 +112,7 @@
               "RelativeDocumentMoniker": "ParcialPOO\\Program.cs",
               "ToolTip": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\ParcialPOO\\ParcialPOO\\ParcialPOO\\ParcialPOO\\Program.cs",
               "RelativeToolTip": "ParcialPOO\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T16:07:28.007Z",
               "EditorCaption": ""
@@ -119,20 +127,7 @@
               "RelativeToolTip": "ParcialPOO\\Models\\Estudiante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:08:34.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-10-15T16:08:34.803Z"
             }
           ]
         }

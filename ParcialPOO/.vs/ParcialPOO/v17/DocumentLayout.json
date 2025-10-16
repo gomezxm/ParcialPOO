@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\ParcialPOO\\ParcialPOO\\ParcialPOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|c:\\users\\dresq\\onedrive\\documentos\\semestre ii\\soft iv\\parcialpoo\\parcialpoo\\parcialpoo\\parcialpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|solutionrelative:parcialpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|c:\\users\\dresq\\onedrive\\documentos\\semestre ii\\soft iv\\parcialpoo\\parcialpoo\\parcialpoo\\parcialpoo\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|solutionrelative:parcialpoo\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|c:\\users\\dresq\\onedrive\\documentos\\semestre ii\\soft iv\\parcialpoo\\parcialpoo\\parcialpoo\\parcialpoo\\models\\imostrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|solutionrelative:parcialpoo\\models\\imostrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|c:\\users\\dresq\\onedrive\\documentos\\semestre ii\\soft iv\\parcialpoo\\parcialpoo\\parcialpoo\\parcialpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|solutionrelative:parcialpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|c:\\users\\dresq\\onedrive\\documentos\\semestre ii\\soft iv\\parcialpoo\\parcialpoo\\parcialpoo\\parcialpoo\\models\\estudiantebecado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|solutionrelative:parcialpoo\\models\\estudiantebecado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|c:\\users\\dresq\\onedrive\\documentos\\semestre ii\\soft iv\\parcialpoo\\parcialpoo\\parcialpoo\\parcialpoo\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|solutionrelative:parcialpoo\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|c:\\users\\dresq\\onedrive\\documentos\\semestre ii\\soft iv\\parcialpoo\\parcialpoo\\parcialpoo\\parcialpoo\\models\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|solutionrelative:parcialpoo\\models\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|c:\\users\\dresq\\onedrive\\documentos\\semestre ii\\soft iv\\parcialpoo\\parcialpoo\\parcialpoo\\parcialpoo\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|solutionrelative:parcialpoo\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|c:\\users\\dresq\\onedrive\\documentos\\semestre ii\\soft iv\\parcialpoo\\parcialpoo\\parcialpoo\\parcialpoo\\models\\estudiantebecado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|solutionrelative:parcialpoo\\models\\estudiantebecado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|c:\\users\\dresq\\onedrive\\documentos\\semestre ii\\soft iv\\parcialpoo\\parcialpoo\\parcialpoo\\parcialpoo\\models\\imostrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BA8BDA-6BFE-494F-B80D-37B943C93D4C}|ParcialPOO\\ParcialPOO.csproj|solutionrelative:parcialpoo\\models\\imostrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "IMostrable.cs",
               "DocumentMoniker": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\ParcialPOO\\ParcialPOO\\ParcialPOO\\ParcialPOO\\Models\\IMostrable.cs",
               "RelativeDocumentMoniker": "ParcialPOO\\Models\\IMostrable.cs",
@@ -66,11 +66,12 @@
               "RelativeToolTip": "ParcialPOO\\Models\\IMostrable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T20:53:48.971Z"
+              "WhenOpened": "2025-10-15T20:53:48.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EstudianteBecado.cs",
               "DocumentMoniker": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\ParcialPOO\\ParcialPOO\\ParcialPOO\\ParcialPOO\\Models\\EstudianteBecado.cs",
               "RelativeDocumentMoniker": "ParcialPOO\\Models\\EstudianteBecado.cs",
@@ -78,11 +79,12 @@
               "RelativeToolTip": "ParcialPOO\\Models\\EstudianteBecado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T20:13:09.567Z"
+              "WhenOpened": "2025-10-15T20:13:09.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Calificacion.cs",
               "DocumentMoniker": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\ParcialPOO\\ParcialPOO\\ParcialPOO\\ParcialPOO\\Models\\Calificacion.cs",
               "RelativeDocumentMoniker": "ParcialPOO\\Models\\Calificacion.cs",
@@ -90,11 +92,12 @@
               "RelativeToolTip": "ParcialPOO\\Models\\Calificacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:10:10.758Z"
+              "WhenOpened": "2025-10-15T16:10:10.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Materia.cs",
               "DocumentMoniker": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\ParcialPOO\\ParcialPOO\\ParcialPOO\\ParcialPOO\\Models\\Materia.cs",
               "RelativeDocumentMoniker": "ParcialPOO\\Models\\Materia.cs",
@@ -102,11 +105,12 @@
               "RelativeToolTip": "ParcialPOO\\Models\\Materia.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:09:03.089Z"
+              "WhenOpened": "2025-10-15T16:09:03.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\ParcialPOO\\ParcialPOO\\ParcialPOO\\ParcialPOO\\Program.cs",
               "RelativeDocumentMoniker": "ParcialPOO\\Program.cs",
@@ -119,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Estudiante.cs",
               "DocumentMoniker": "C:\\Users\\dresq\\OneDrive\\Documentos\\Semestre II\\Soft IV\\ParcialPOO\\ParcialPOO\\ParcialPOO\\ParcialPOO\\Models\\Estudiante.cs",
               "RelativeDocumentMoniker": "ParcialPOO\\Models\\Estudiante.cs",
@@ -127,7 +131,8 @@
               "RelativeToolTip": "ParcialPOO\\Models\\Estudiante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T16:08:34.803Z"
+              "WhenOpened": "2025-10-15T16:08:34.803Z",
+              "EditorCaption": ""
             }
           ]
         }
