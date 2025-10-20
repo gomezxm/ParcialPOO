@@ -1,0 +1,15 @@
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\obj\Debug\net8.0\Parcial Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\obj\Debug\net8.0\Parcial Poo.AssemblyInfoInputs.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\obj\Debug\net8.0\Parcial Poo.AssemblyInfo.cs
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\obj\Debug\net8.0\Parcial Poo.csproj.CoreCompileInputs.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\obj\Debug\net8.0\Parcial Poo.sourcelink.json
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\bin\Debug\net8.0\Parcial Poo.exe
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\bin\Debug\net8.0\Parcial Poo.deps.json
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\bin\Debug\net8.0\Parcial Poo.runtimeconfig.json
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\bin\Debug\net8.0\Parcial Poo.dll
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\bin\Debug\net8.0\Parcial Poo.pdb
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\obj\Debug\net8.0\Parcial Poo.dll
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\obj\Debug\net8.0\refint\Parcial Poo.dll
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\obj\Debug\net8.0\Parcial Poo.pdb
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\obj\Debug\net8.0\Parcial Poo.genruntimeconfig.cache
+C:\Users\dresq\OneDrive\Documentos\Semestre II\Soft IV\ParcialPOO\ParcialPOO\Parcial Poo\Parcial Poo\obj\Debug\net8.0\ref\Parcial Poo.dll
